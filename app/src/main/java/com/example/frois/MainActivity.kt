@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                   Cabecalho("Pedro Augusto Froisssss ", "Aluno")
+                   Cabecalho("Pedro Augusto Frois ", "Aluno")
                 }
             }
         }
